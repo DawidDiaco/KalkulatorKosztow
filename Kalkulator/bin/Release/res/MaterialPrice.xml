@@ -1,0 +1,157 @@
+<MaterialPrice>
+	<Material name="1.4301">
+		<Density>7,85</Density>
+		<Price>15</Price>
+		<Type>Stainless</Type>
+	</Material>
+	<Material name="1.4301 Czarne SL">
+		<Density>7,85</Density>
+		<Price>24</Price>
+		<Type>Stainless</Type>
+	</Material>
+	<Material name="1.4301 Srebne SL">
+		<Density>7,85</Density>
+		<Price>24</Price>
+		<Type>Stainless</Type>
+	</Material>
+	<Material name="1.4301 Złote SL">
+		<Density>7,85</Density>
+		<Price>42</Price>
+		<Type>Stainless</Type>
+	</Material>
+	<Material name="1.4307">
+		<Density>7,85</Density>
+		<Price>15</Price>
+		<Type>Stainless</Type>
+	</Material>
+	<Material name="1.4404">
+		<Density>7,85</Density>
+		<Price>18</Price>
+		<Type>Stainless</Type>
+	</Material>
+	<Material name="1.4828">
+		<Density>7,85</Density>
+		<Price>0</Price>
+		<Type>Stainless</Type>
+	</Material>
+	<Material name="100Cr6">
+		<Density>7,85</Density>
+		<Price>0</Price>
+		<Type>Stainless</Type>
+	</Material>
+	<Material name="16MnCr5">
+		<Density>7,85</Density>
+		<Price>0</Price>
+		<Type>Stainless</Type>
+	</Material>
+	<Material name="316 Ti">
+		<Density>7,85</Density>
+		<Price>20</Price>
+		<Type>Premium</Type>
+	</Material>
+	<Material name="AW5083">
+		<Density>2,7</Density>
+		<Price>0</Price>
+		<Type>Premium</Type>
+	</Material>
+	<Material name="AW5754">
+		<Density>2,7</Density>
+		<Price>15</Price>
+		<Type>Premium</Type>
+	</Material>
+	<Material name="AW6082">
+		<Density>2,7</Density>
+		<Price>0</Price>
+		<Type>Premium</Type>
+	</Material>
+	<Material name="C45E">
+		<Density>7,85</Density>
+		<Price>0</Price>
+		<Type>Stainless</Type>
+	</Material>
+	<Material name="CuSn8">
+		<Density>7,85</Density>
+		<Price>0</Price>
+		<Type>Stainless</Type>
+	</Material>
+	<Material name="CuZn37">
+		<Density>7,85</Density>
+		<Price>25</Price>
+		<Type>Stainless</Type>
+	</Material>
+	<Material name="DC01">
+		<Density>7,85</Density>
+		<Price>3,50</Price>
+		<Type>Stainless</Type>
+	</Material>
+	<Material name="DC01+ZE">
+		<Density>7,85</Density>
+		<Price>4</Price>
+		<Type>Stainless</Type>
+	</Material>
+	<Material name="DD11">
+		<Density>7,85</Density>
+		<Price>2,80</Price>
+		<Type>Stainless</Type>
+	</Material>
+	<Material name="DX51D">
+		<Density>7,85</Density>
+		<Price>3,5</Price>
+		<Type>Stainless</Type>
+	</Material>
+	<Material name="HARDOX">
+		<Density>7,85</Density>
+		<Price>0</Price>
+		<Type>Stainless</Type>
+	</Material>
+	<Material name="Nimax">
+		<Density>7,85</Density>
+		<Price>0</Price>
+		<Type>Stainless</Type>
+	</Material>
+	<Material name="100Cr6">
+		<Density>7,85</Density>
+		<Price>0</Price>
+		<Type>Stainless</Type>
+	</Material>
+	<Material name="OF-Cu">
+		<Density>7,85</Density>
+		<Price>25</Price>
+		<Type>Stainless</Type>
+	</Material>
+	<Material name="P265GH">
+		<Density>7,85</Density>
+		<Price>0</Price>
+		<Type>Stainless</Type>
+	</Material>
+	<Material name="PA6">
+		<Density>7,85</Density>
+		<Price>0</Price>
+		<Type>Stainless</Type>
+	</Material>
+	<Material name="S235">
+		<Density>7,85</Density>
+		<Price>3,2</Price>
+		<Type>Building</Type>
+	</Material>
+	<Material name="S235JR">
+		<Density>7,85</Density>
+		<Price>3,2</Price>
+		<Type>Building</Type>
+	</Material>
+	<Material name="S355">
+		<Density>7,85</Density>
+		<Price>3,5</Price>
+		<Type>Building</Type>
+	</Material>
+	<Material name="Ti2">
+		<Density>7,85</Density>
+		<Price>30</Price>
+		<Type>Stainless</Type>
+	</Material>
+	<Material name="Timber">
+		<Density>7,85</Density>
+		<Price>0</Price>
+		<Type>Stainless</Type>
+	</Material>
+</MaterialPrice>

@@ -1,0 +1,72 @@
+<CuttingPrice>
+	<Thickness name="0,5">
+			<Type name="Stainless">2,7</Type>
+			<Type name="Building">2</Type>
+			<Type name="Premium">5,4</Type>		
+	</Thickness>
+	<Thickness name="1">
+			<Type name="Stainless">2,7</Type>
+			<Type name="Building">2</Type>
+			<Type name="Premium">5,4</Type>			
+	</Thickness>
+	<Thickness name="1,5">
+			<Type name="Stainless">2,9</Type>
+			<Type name="Building">2,2</Type>
+			<Type name="Premium">6,3</Type>		
+	</Thickness>
+	<Thickness name="2">
+			<Type name="Stainless">3,2</Type>
+			<Type name="Building">2,3</Type>
+			<Type name="Premium">7,1</Type>	
+	</Thickness>
+	<Thickness name="2,5">
+			<Type name="Stainless">4,1</Type>
+			<Type name="Building">2,5</Type>
+			<Type name="Premium">8,8</Type>	
+	</Thickness>
+	<Thickness name="3">
+			<Type name="Stainless">5,7</Type>
+			<Type name="Building">2,7</Type>
+			<Type name="Premium">12,4</Type>	
+	</Thickness>
+	<Thickness name="4">
+			<Type name="Stainless">9</Type>
+			<Type name="Building">3,7</Type>
+			<Type name="Premium">21,2</Type>	
+	</Thickness>
+	<Thickness name="5">
+			<Type name="Stainless">12,8</Type>
+			<Type name="Building">4,2</Type>
+			<Type name="Premium">33,7</Type>	
+	</Thickness>
+	<Thickness name="6">
+			<Type name="Stainless">15,8</Type>
+			<Type name="Building">4,7</Type>
+			<Type name="Premium">39,7</Type>	
+	</Thickness>
+	<Thickness name="8">
+			<Type name="Stainless">23,6</Type>
+			<Type name="Building">6,4</Type>
+			<Type name="Premium">46,9</Type>	
+	</Thickness>
+	<Thickness name="10">
+			<Type name="Stainless">31,4</Type>
+			<Type name="Building">7,3</Type>
+			<Type name="Premium">50</Type>
+	</Thickness>
+	<Thickness name="12">
+			<Type name="Stainless">42,2</Type>
+			<Type name="Building">9,8</Type>
+			<Type name="Premium">000000</Type>	
+	</Thickness>
+	<Thickness name="15">
+			<Type name="Stainless">00000</Type>
+			<Type name="Building">13,5</Type>
+			<Type name="Premium">00000</Type>	
+	</Thickness>
+	<Thickness name="20">
+			<Type name="Stainless">00000</Type>
+			<Type name="Building">15,8</Type>
+			<Type name="Premium">00000</Type>	
+	</Thickness>	
+</CuttingPrice>
